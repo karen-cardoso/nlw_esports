@@ -6,6 +6,4 @@
 
 # NLW eSports
 
-> > > > > > > a0980ed4d3939e36d701fa9b4d7d5413563b8697
-
-https://karen-cardoso.github.io/nlw_esports/
+[Acesse a página do projeto](https://karen-cardoso.github.io/nlw_esports/)
