@@ -2,8 +2,6 @@
 
 # NLW eSports - Trilha Explorer
 
-## Layout
-
 ![preview](./.github/preview.png)
 
 ## Descrição
