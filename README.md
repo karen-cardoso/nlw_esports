@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Projeto construído no evento NLW eSports da Rocetseat
+Projeto construído no evento NLW eSports da Rocetseat.
 
 ## 💻 Tecnologias utilizadas
 
